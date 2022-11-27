@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Profile"
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item android:title="Setting"
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+    <item android:title="Messages"
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/ic_baseline_message_24"/>
+    <item android:title="Games"
+        android:id="@+id/fifthFragment"
+        android:icon="@drawable/ic_baseline_games_24"/>
+</menu>
